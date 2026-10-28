@@ -1,20 +1,37 @@
-🚀 LeetCode Solutions by Vivek Bhardwaj
-About
+# 🚀 LeetCode Solutions
+
+## 👨‍💻 About
+
 This repository contains my LeetCode solutions in Java.
 
-Topics
-Arrays
-Strings
-LinkedList
-Stack
-Queue
-Tree
-Graph
-Recursion
-Backtracking
-Dynamic Programming
-Greedy
-Binary Search
-Sliding Window
-Goal
-Solve 500+ LeetCode Problems
+## 🛠 Language
+
+- Java
+
+## 📚 Topics Covered
+
+- Arrays
+- Strings
+- Linked List
+- Stack
+- Queue
+- Tree
+- Graph
+- Dynamic Programming
+- Recursion
+- Backtracking
+- Greedy
+- Binary Search
+- Sliding Window
+
+## 🎯 Goal
+
+✅ 500+ Problems Solved
+
+✅ Strong DSA Skills
+
+✅ Product Based Companies
+
+## 🔗 Profiles
+
+GitHub: https://github.com/Vivek-bhardwaj3232
