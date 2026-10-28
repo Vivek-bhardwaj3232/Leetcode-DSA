@@ -87,4 +87,8 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
