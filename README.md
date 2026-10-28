@@ -1,37 +1,78 @@
-# 🚀 LeetCode Solutions
+# 🚀 LeetCode Solutions by Vivek Bhardwaj
+
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
+![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk)
+![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
+
+---
 
 ## 👨‍💻 About
 
 This repository contains my LeetCode solutions in Java.
 
-## 🛠 Language
+I use this repository to improve problem-solving skills and prepare for Software Engineering interviews.
 
-- Java
+---
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vivek_Bhardwaj3232?theme=dark&font=Nunito)
+
+---
+
+## 🎯 Goals
+
+- [ ] 100 Problems
+- [ ] 250 Problems
+- [ ] 500 Problems
+- [ ] 1000 Problems
+
+---
 
 ## 📚 Topics Covered
 
-- Arrays
-- Strings
-- Linked List
-- Stack
-- Queue
-- Tree
-- Graph
-- Dynamic Programming
-- Recursion
-- Backtracking
-- Greedy
-- Binary Search
-- Sliding Window
+✅ Arrays
 
-## 🎯 Goal
+✅ Strings
 
-✅ 500+ Problems Solved
+✅ Linked List
 
-✅ Strong DSA Skills
+✅ Stack
 
-✅ Product Based Companies
+✅ Queue
+
+✅ Tree
+
+✅ Graph
+
+✅ Dynamic Programming
+
+✅ Binary Search
+
+✅ Sliding Window
+
+✅ Recursion
+
+✅ Backtracking
+
+✅ Greedy
+
+---
+
+## 💻 Language
+
+- Java
+
+---
 
 ## 🔗 Profiles
 
-GitHub: https://github.com/Vivek-bhardwaj3232
+### LeetCode
+https://leetcode.com/u/Vivek_Bhardwaj3232/
+
+### GitHub
+https://github.com/Vivek-bhardwaj3232
+
+---
+
+⭐ If you find this repository useful, consider giving it a star.
