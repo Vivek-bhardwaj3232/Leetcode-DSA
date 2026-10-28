@@ -76,3 +76,15 @@ https://github.com/Vivek-bhardwaj3232
 ---
 
 ⭐ If you find this repository useful, consider giving it a star.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
