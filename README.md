@@ -83,6 +83,7 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +92,12 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
