@@ -89,6 +89,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0075-sort-colors](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
