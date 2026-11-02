@@ -86,6 +86,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0011-container-with-most-water](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -115,6 +116,7 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Sorting
