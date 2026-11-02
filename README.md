@@ -100,6 +100,7 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +118,7 @@ https://github.com/Vivek-bhardwaj3232
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Sorting
@@ -155,4 +157,8 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
