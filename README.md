@@ -88,6 +88,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0033-search-in-rotated-sorted-array](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0162-find-peak-element) |
@@ -153,6 +154,7 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -165,4 +167,8 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
