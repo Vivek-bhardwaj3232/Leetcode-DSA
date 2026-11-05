@@ -95,6 +95,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Hash Table
@@ -128,6 +129,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -175,8 +177,10 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
