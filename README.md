@@ -99,6 +99,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0125-valid-palindrome](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
@@ -132,6 +134,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0162-find-peak-element](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -192,4 +195,16 @@ https://github.com/Vivek-bhardwaj3232
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
