@@ -1,17 +1,18 @@
 class Solution {
     public int maxArea(int[] nums) {
-        int left = 0;
-        int right = nums.length-1;
+        int l = 0;
+        int r = nums.length-1;
         int max = 0;
-        while(left<right){
-            int height = Math.min(nums[left],nums[right]);
-            int width = right-left;
-            int water = height*width; 
-            max = Math.max(water,max);
-            if(nums[left] < nums[right]){
-                left++;
+
+        while(l<r){
+            int h = Math.min(nums[l],nums[r]);
+            int w = r-l;
+            int area = h*w;
+            max = Math.max(area,max);
+            if(nums[l] < nums[r]){
+                l++;
             }else{
-                right--;
+                r--;
             }
         }
         return max;
