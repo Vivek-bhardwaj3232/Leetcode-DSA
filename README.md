@@ -100,6 +100,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
