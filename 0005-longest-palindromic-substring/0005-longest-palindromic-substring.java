@@ -5,13 +5,13 @@ class Solution {
         int end = 0;
 
         for(int i=0; i<n; i++){
-            int len1 = expand(s,i,i);
-            int len2 = expand(s,i,i+1);
-            int len = Math.max(len1,len2);
+            int oddLen = expand(s,i,i);
+            int evenLen = expand(s,i,i+1);
+            int len = Math.max(oddLen,evenLen);
 
             if(len > (end-start)){
-                start = i-(len-1)/2;
-                end = i+len/2;
+                start = i - (len-1)/2;
+                end = i + len/2;
             }
         }
         return s.substring(start,end+1);
