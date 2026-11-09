@@ -107,6 +107,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0485-max-consecutive-ones](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0647-palindromic-substrings](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0075-sort-colors](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Quicksort
 |  |
 | ------- |
