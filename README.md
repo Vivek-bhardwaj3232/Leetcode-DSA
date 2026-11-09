@@ -125,6 +125,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0283-move-zeroes](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
@@ -160,6 +161,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0005-longest-palindromic-substring](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -173,6 +175,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0042-trapping-rain-water](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
