@@ -1,18 +1,20 @@
 class Solution {
     public String reverseWords(String s) {
-        String words[] = s.trim().split("\\s+");
-        String out = "";
-        for(int i=0; i<words.length-1; i++){
-            out += reverse(words[i]) + " ";
+        String words[] = s.split(" ");
+        StringBuilder ans = new StringBuilder();
+
+        for(int i=0; i<words.length; i++){
+            ans.append(reverse(words[i]));
+
+            if(i != words.length-1){
+                ans.append(" ");
+            }
         }
-        return out + reverse(words[words.length-1]);
+        return ans.toString();
     }
 
-    private String reverse(String t){
-        String res = "";
-        for(int i=t.length()-1; i>=0; i--){
-            res += t.charAt(i);
-        }
-        return res;
+    private String reverse(String word){
+        StringBuilder res = new StringBuilder(word);
+        return res.reverse().toString();
     }
 }
