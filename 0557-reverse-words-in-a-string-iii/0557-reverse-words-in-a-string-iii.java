@@ -1,20 +1,27 @@
 class Solution {
     public String reverseWords(String s) {
-        String words[] = s.split(" ");
-        StringBuilder ans = new StringBuilder();
+       char[] arr = s.toCharArray();
+        int start = 0;
 
-        for(int i=0; i<words.length; i++){
-            ans.append(reverse(words[i]));
+        for (int end = 0; end <= arr.length; end++) {
 
-            if(i != words.length-1){
-                ans.append(" ");
+            if (end == arr.length || arr[end] == ' ') {
+                reverse(arr, start, end - 1);
+                start = end + 1;
             }
         }
-        return ans.toString();
+
+        return new String(arr);
     }
 
-    private String reverse(String word){
-        StringBuilder res = new StringBuilder(word);
-        return res.reverse().toString();
+    private void reverse(char[] arr, int left, int right) {
+        while (left < right) {
+            char temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
+
+            left++;
+            right--;
+        }
     }
 }
