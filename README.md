@@ -106,6 +106,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0905-sort-array-by-parity](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -157,6 +158,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -246,10 +248,12 @@ https://github.com/Vivek-bhardwaj3232
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
