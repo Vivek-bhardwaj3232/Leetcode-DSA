@@ -14,7 +14,7 @@ class Solution {
                 }
             }
             if(i>=k-1 && map.size() == k){
-                max = Math.max(sum,max);   
+                max = Math.max(max,sum);
             }
         }
         return max;
