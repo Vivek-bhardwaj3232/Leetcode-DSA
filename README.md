@@ -108,10 +108,12 @@ https://github.com/Vivek-bhardwaj3232
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0001-two-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -239,4 +241,8 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
