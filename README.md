@@ -111,6 +111,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0905-sort-array-by-parity](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -202,6 +203,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0053-maximum-subarray](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
