@@ -110,6 +110,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -120,6 +121,7 @@ https://github.com/Vivek-bhardwaj3232
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -257,6 +259,7 @@ https://github.com/Vivek-bhardwaj3232
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
