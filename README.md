@@ -108,6 +108,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0485-max-consecutive-ones](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -261,5 +262,6 @@ https://github.com/Vivek-bhardwaj3232
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
