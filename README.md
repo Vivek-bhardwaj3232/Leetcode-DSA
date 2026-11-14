@@ -117,6 +117,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0922-sort-array-by-parity-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1314-matrix-block-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -239,6 +240,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0059-spiral-matrix-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1314-matrix-block-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -280,4 +282,5 @@ https://github.com/Vivek-bhardwaj3232
 | [0724-find-pivot-index](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
