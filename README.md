@@ -107,6 +107,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0283-move-zeroes](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -122,6 +123,7 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -132,6 +134,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0009-palindrome-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +252,7 @@ https://github.com/Vivek-bhardwaj3232
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -270,6 +274,7 @@ https://github.com/Vivek-bhardwaj3232
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0724-find-pivot-index) |
