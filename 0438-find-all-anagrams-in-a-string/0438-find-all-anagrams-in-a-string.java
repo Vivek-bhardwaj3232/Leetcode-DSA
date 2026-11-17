@@ -2,26 +2,23 @@ class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         ArrayList<Integer> list = new ArrayList<>();
         int k = p.length();
-        for(int i=0; i<=s.length()-k; i++){
-            String sub = s.substring(i,i+k);
-            if(anagram(p,sub)){
-                list.add(i);
-            }
-        }
-        return list;
-    }
-    private boolean anagram(String a, String b){
         int ch1[] = new int[26];
-        for(int i=0; i<a.length(); i++){
-            char ch = a.charAt(i);
+        for(char ch : p.toCharArray()){
             ch1[ch-'a']++;
         }
 
         int ch2[] = new int[26];
-        for(int i=0; i<b.length(); i++){
-            char ch = b.charAt(i);
+        for(int i=0; i<s.length(); i++){
+            char ch = s.charAt(i);
             ch2[ch-'a']++;
+            if(i<k-1){
+                continue;
+            }
+            if(Arrays.equals(ch1,ch2)){
+                list.add(i-k+1);
+            }
+            ch2[s.charAt(i-k+1)-'a']--;
         }
-        return Arrays.equals(ch1,ch2);
+        return list;
     }
 }
