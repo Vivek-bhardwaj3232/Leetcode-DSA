@@ -130,6 +130,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -160,6 +161,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0287-find-the-duplicate-number](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0905-sort-array-by-parity) |
@@ -208,6 +210,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0344-reverse-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
@@ -278,6 +281,7 @@ https://github.com/Vivek-bhardwaj3232
 | [0076-minimum-window-substring](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vivek-bhardwaj3232/Leetcode-DSA/tree/master/0992-subarrays-with-k-different-integers) |
